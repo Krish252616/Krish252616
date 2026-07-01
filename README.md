@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web & App Development Projects (React / Java)**
 
-- 🤝 I’m looking for help with **Backend Development & Deployment**
+- 🤝 I’m looking for help with **Backend Development**
 
 - 💬 Ask me about **React, Java, MySQL, App Development**
 

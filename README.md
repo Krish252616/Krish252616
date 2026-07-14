@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/krish-pawar-2a7194337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish pawar" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/krishpawarrr/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="krish pawar" height="30" width="40" /></a>
 <a href="https://instagram.com/krishpawarrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishpawarrr" height="30" width="40" /></a>
 </p>
 
